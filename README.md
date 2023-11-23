@@ -23,3 +23,18 @@ Amal El-Mohtar*	| "Seasons of Glass and Iron"	| The Starlit Wood: New Fairy Tale
 Naomi Kritzer*	 | "Cat Pictures Please" |	Clarkesworld Magazine | https://poe.com/s/uDq1b3VdSUx37wO3mfbu
 John Chu*	| "The Water That Falls on You from Nowhere" |	Tor.com | https://poe.com/s/pOKIyxz1G1TtZgLKg2uF
 Ken Liu*	| "Mono no Aware"	| The Future is Japanese (Viz Media) | https://poe.com/s/udXjicljOebynHJOOJiU
+
+
+## Eugie奖
+
+https://poe.com/s/qvPv1TKY6z5OlU1VHOVY
+
+https://poe.com/s/3rh2K4uffKirdnsq8eqn
+
+https://poe.com/s/T4BXFKI6ag9YkAtAL7Lx
+
+https://poe.com/s/7FzT5sCLPMbt5y1XbGCb
+
+https://poe.com/s/axiKMwrz73jM54oYcaid
+
+
