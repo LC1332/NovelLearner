@@ -13,8 +13,8 @@ Done by 李鲁鲁
 
 作者 | 作品 | 杂志 | 使用GPT分析
 ---|---|---| ---
-Samantha Mills*	| "Rabbit Test"		|  Uncanny Magazine | https://poe.com/s/ffZ6HNMZaJnDY5q3ZTDu | 格式太奇怪了不搞了
-Sarah Pinsker*		| "Where Oaken Hearts Do Gather"		| Uncanny Magazine | 
+Samantha Mills*	| "Rabbit Test"		|  Uncanny Magazine | 格式太奇怪了不搞了
+Sarah Pinsker*		| "Where Oaken Hearts Do Gather"		| Uncanny Magazine | https://poe.com/s/ffZ6HNMZaJnDY5q3ZTDu
 Ursula Vernon* (as T. Kingfisher)		| "Metal Like Blood in the Dark"		| Uncanny Magazine | https://poe.com/s/bo9HCN0LEjNZvmc1Uduq
 S. L. Huang*		| "As the Last I May Know"		| Tor.com | https://poe.com/s/bjRvn41utImOlytgaWKL
 Alix E. Harrow*	|"A Witch's Guide to Escape: A Practical Compendium of Portal Fantasies"	| Apex Magazine | https://poe.com/s/im0izHpVUTMeOcYygU6R
