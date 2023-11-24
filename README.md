@@ -38,3 +38,13 @@ https://poe.com/s/7FzT5sCLPMbt5y1XbGCb
 https://poe.com/s/axiKMwrz73jM54oYcaid
 
 
+## 中文小说评论
+
+https://poe.com/s/RIy0mjxW9tXnylgsnqlM
+
+https://poe.com/s/CNZkzHwS7xgvwazkepu6
+
+https://poe.com/s/a041J7zwj7krgiGrWmGr
+
+
+
