@@ -2,6 +2,28 @@
 
 见[设定](./设定.md)
 
+# 逐段写作
+
+Part A
+
+https://chat.openai.com/share/e5765444-dd4e-4bbb-80cb-34e8d89c80cd
+
+Part B
+
+https://chat.openai.com/share/29ca46ea-669e-45de-b307-5226f5c756cd
+
+Part C
+
+https://chat.openai.com/share/a5c86796-748a-4147-8936-79f64aa9821a
+
+Part D
+
+https://chat.openai.com/share/491cacf7-d1aa-4119-8bf8-0f6486645c6e
+
+Part E
+
+https://chat.openai.com/share/21e7a3f6-f0cd-4d69-ba32-f71f4c7dc5e0
+
 # 结合最新的提纲，结合判断每一段是不是和过往的雨果奖可以有所借鉴
 
 

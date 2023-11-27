@@ -1,0 +1,558 @@
+对下面的文章进行分段 ，并且用## Part X 的markdown格式重新输出。
+
+- 如果文章出现明显的场景切换，如"For a week in June", "The Hey U.S.A. bar is the only Indian bar in Sedona" 则可以进行分段
+- 在每个章节号§的地方都要分段
+- 请把下面的文章至少分成10个不同的Parts
+
+文章:
+
+Here is the article divided into 11 parts using markdown formatting:
+
+## Part 1
+
+by Rebecca Roanhorse
+
+You maintain a menu of a half dozen Experiences on your digital blackboard, but Vision Quest is the one the Tourists choose the most. That certainly makes your workday easy. All a Vision Quest requires is a dash of mystical shaman, a spirit animal (wolf usually, but birds of prey are on the upswing this year), and the approximation of a peyote experience. Tourists always come out of the Experience feeling spiritually transformed. (You’ve never actually tried peyote, but you did smoke your share of weed during that one year at Arizona State, and who’s going to call you on the difference?) It’s all 101 stuff, really, these Quests. But no other Indian working at Sedona Sweats can do it better. Your sales numbers are tops.  
+
+Your wife Theresa doesn’t approve of the gig. Oh, she likes you working, especially after that dismal stretch of unemployment the year before last when she almost left you, but she thinks the job itself is demeaning.
+
+## Part 2  
+
+“Our last name’s not Trueblood,” she complains when you tell her about your nom de rêve.
+
+“Nobody wants to buy a Vision Quest from a Jesse Turnblatt,” you explain. “I need to sound more Indian.”  
+
+“You are Indian,” she says. “Turnblatt’s Indian-sounding enough because you’re already Indian.”
+
+“We’re not the right kind of Indian,” you counter. “I mean, we’re Catholic, for Christ’s sake.”
+
+What Theresa doesn’t understand is that Tourists don’t want a real Indian experience. They want what they see in the movies, and who can blame them? Movie Indians are terrific! So you watch the same movies the Tourists do, until John Dunbar becomes your spirit animal and Stands with Fists your best girl. You memorize Johnny Depp’s lines from The Lone Ranger and hang a picture of Iron Eyes Cody in your work locker. For a while you are really into Dustin Hoffman’s Little Big Man.   
+
+It’s Little Big Man that does you in.   
+
+## Part 3
+
+For a week in June, you convince your boss to offer a Custer’s Last Stand special, thinking there might be a Tourist or two who want to live out a Crazy Horse Experience. You even memorize some quotes attributed to the venerable Sioux chief that you find on the internet. You plan to make it real authentic.
+
+But you don’t get a single taker. Your numbers nosedive.  
+
+Management in Phoenix notices, and Boss drops it from the blackboard by Fourth of July weekend. He yells at you to stop screwing around, accuses you of trying to be an artiste or whatnot.  
+
+“Tourists don’t come to Sedona Sweats to live out a goddamn battle,” Boss says in the break room over lunch one day, “especially if the white guy loses. They come here to find themselves.” Boss waves his hand in the air in an approximation of something vaguely prayer-like. “It’s a spiritual experience we’re offering. Top quality. The fucking best.”
+
+## Part 4
+
+DarAnne, your Navajo co-worker with the pretty smile and the perfect teeth, snorts loudly. She takes a bite of her sandwich, mutton by the looks of it. Her jaw works, her sharp teeth flash white. She waits until she’s finished chewing to say, “Nothing spiritual about Squaw Fantasy.”
+
+Squaw Fantasy is Boss’s latest idea, his way to get the numbers up and impress Management. DarAnne and a few others have complained about the use of the ugly slur, the inclusion of a sexual fantasy as an Experience at all. But Boss is unmoved, especially when the first week’s numbers roll in. Biggest seller yet.
+
+Boss looks over at you. “What do you think?”  
+
+Boss is Pima, with a bushy mustache and a thick head of still-dark hair. You admire that about him. Virility. Boss makes being a man look easy. Makes everything look easy. Real authentic-like.
+
+DarAnne tilts her head, long beaded earrings swinging, and waits. Her painted nails click impatiently against the Formica lunch table. You can smell the onion in her sandwich.  
+
+## Part 5
+
+Your mouth is dry like the red rock desert you can see outside your window. If you say Squaw Fantasy is demeaning, Boss will mock you, call you a pussy, or worse. If you say you think it’s okay, DarAnne and her crew will put you on the guys-who-are-assholes list and you’ll deserve it.  
+
+You sip your bottled water, stalling. Decide that in the wake of the Crazy Horse debacle that Boss’s approval means more than DarAnne’s, and venture, “I mean, if the Tourists like it ...”
+
+Boss slaps the table, triumphant. DarAnne’s face twists in disgust. “What does Theresa think of that, eh, Jesse?” she spits at you. “You tell her Boss is thinking of adding Savage Braves to the menu next? He’s gonna have you in a loincloth and hair down to your ass, see how you like it.”  
+
+Your face heats up, embarrassed. You push away from the table, too quickly, and the flimsy top teeters. You can hear Boss’s shouts of protest as his vending machine lemonade tilts dangerously, and DarAnne’s mocking laugh, but it all comes to your ears through a shroud of thick cotton. You mumble something about getting back to work. The sound of arguing trails you down the hall.
+
+## Part 6  
+
+You change in the locker room and shuffle down to the pod marked with your name. You unlock the hatch and crawl in. Some people find the pods claustrophobic, but you like the cool metal container, the tight fit. It’s comforting. The VR helmet fits snugly on your head, the breathing mask over your nose and mouth.
+
+With a shiver of anticipation, you give the pod your Experience setting. Add the other necessary details to flesh things out. The screen prompts you to pick a Tourist connection from a waiting list, but you ignore it, blinking through the option screens until you get to the final confirmation. You brace for the mild nausea that always comes when you Relocate in and out of an Experience.
+
+The first sensation is always smell. Sweetgrass and wood smoke and the rich loam of the northern plains. Even though it’s fake, receptors firing under the coaxing of a machine, you relax into the scents. You grew up in the desert, among people who appreciate cedar and pinon and red earth, but there’s still something home-like about this prairie place.  
+
+Or maybe you watch too much TV. You really aren’t sure anymore.
+
+## Part 7
+
+You find yourself on a wide grassy plain, somewhere in the upper Midwest of a bygone era. Bison roam in the distance. A hawk soars overhead.  
+
+You are alone, you know this, but it doesn’t stop you from looking around to make sure. This thing you are about to do. Well, you would be humiliated if anyone found out. Because you keep thinking about what DarAnne said. Squaw Fantasy and Savage Braves. Because the thing is, being sexy doesn’t disgust you the way it does DarAnne. You’ve never been one of those guys. The star athlete or the cool kid. It’s tempting to think of all those Tourist women wanting you like that, even if it is just in an Experience.
+
+You are now wearing a knee-length loincloth. A wave of black hair flows down your back. Your middle-aged paunch melts into rock-hard abs worthy of a romance novel cover model. You raise your chin and try out your best stoic look on a passing prairie dog. The little rodent chirps something back at you. You’ve heard prairie dogs can remember human faces, and you wonder what this one would say about you. Then you remember this is an Experience, so the prairie dog is no more real than the caricature of an Indian you have conjured up.
+
+## Part 8
+
+You wonder what Theresa would think if she saw you like this.
+
+The world shivers. The pod screen blinks on. Someone wants your Experience.  
+
+A Tourist, asking for you. Completely normal. Expected. No need for that panicky hot breath rattling through your mask.
+
+You scroll through the Tourist’s requirements.
+
+Experience Type: Vision Quest.  
+
+Tribe: Plains Indian (nation nonspecific).
+
+Favorite animal: Wolf.
+
+These things are all familiar. Things you are good at faking. Things you get paid to pretend.
+
+You drop the Savage Brave fantasy garb for buckskin pants and beaded leather moccasins. You keep your chest bare and muscled but you drape a rough wool blanket across your shoulders for dignity. Your impressive abs are still visible.
+
+
+
+
+
+
+
+
+## Part 9
+
+The sun is setting and you turn to put the artificial dusk at your back, prepared to meet your Tourist. You run through your list of Indian names to bestow upon your Tourist once the Vision Quest is over. You like to keep the names fresh, never using the same one in case the Tourists ever compare notes. For a while you cheated and used one of those naming things on the internet where you enter your favorite flower and the street you grew up on and it gives you your Indian name, but there were too many Tourists that grew up on Elm or Park and you found yourself getting repetitive. You try to base the names on appearances now. Hair color, eye, some distinguishing feature. Tourists really seem to like it. 
+
+This Tourist is younger than you expected. Sedona Sweats caters to New Agers, the kind from Los Angeles or Scottsdale with impressive bank accounts. But the man coming up the hill, squinting into the setting sun, is in his late twenties. Medium height and build with pale spotty skin and brown hair. The guy looks normal enough, but there’s something sad about him.
+
+Maybe he’s lost.
+
+You imagine a lot of Tourists are lost.
+
+Maybe he’s someone who works a day job just like you, saving up money for this once-in-a-lifetime Indian ExperienceTM. Maybe he’s desperate, looking for purpose in his own shitty world and thinking Indians have all the answers. Maybe he just wants something that’s authentic.
+
+You like that. The idea that Tourists come to you to experience something real. DarAnne has it wrong. The Tourists aren’t all bad. They’re just needy.
+
+You plant your feet in a wide welcoming stance and raise one hand. “How,” you intone, as the man stops a few feet in front of you.
+
+## Part 10
+
+The man flushes, a bright pinkish tone. You can’t tell if he’s nervous or embarrassed. Maybe both? But he raises his hand, palm forward, and says, “How,” right back.
+
+“Have you come seeking wisdom, my son?” you ask in your best broken English accent. “Come. I will show you great wisdom.” You sweep your arm across the prairie. “We look to brother wolf—”
+
+The man rolls his eyes.
+
+What?
+
+You stutter to a pause. Are you doing something wrong? Is the accent no good? Too little? Too much?
+
+You visualize the requirements checklist. You are positive he chose wolf. Positive. So you press on. “My brother wolf,” you say again, this time sounding much more Indian, you are sure.
+
+“I’m sorry,” the man says, interrupting. “This wasn’t what I wanted. I’ve made a mistake.” 
+
+## Part 11
+
+“But you picked it on the menu!” In the confusion of the moment, you drop your accent. Is it too late to go back and say it right?
+
+The man’s lips curl up in a grimace, like you have confirmed his worst suspicions. He shakes his head. “I was looking for something more authentic.”
+
+Something in your chest seizes up. 
+
+“I can fix it,” you say. 
+
+“No, it’s alright. I’ll find someone else.” He turns to go.
+
+You can’t afford another bad mark on your record. No more screw-ups or you’re out. Boss made that clear enough. “At least give me a chance,” you plead.
+
+## Part 12
+
+“It’s okay,” he says over his shoulder.
+
+This is bad. Does this man not know what a good Indian you are? “Please!” 
+
+The man turns back to you, his face thoughtful.
+
+You feel a surge of hope. This can be fixed, and you know exactly how. “I can give you a name. Something you can call yourself when you need to feel strong. It’s authentic,” you add enthusiastically. “From a real Indian.” That much is true.
+
+The man looks a little more open, and he doesn’t say no. That’s good enough.
+
+You study the man’s dusky hair, his pinkish skin. His long skinny legs. He reminds you a bit of the flamingos at the Albuquerque zoo, but you are pretty sure no one wants to be named after those strange creatures. It must be something good. Something...spiritual.
+
+“Your name is Pale Crow,” you offer. Birds are still on your mind.
+
+## Part 13
+
+At the look on the man’s face, you reconsider. “No, no, it is White” —yes, that’s better than pale— “Wolf. White Wolf.”
+
+“White Wolf?” There’s a note of interest in his voice. 
+
+You nod sagely. You knew the man had picked wolf. Your eyes meet. Uncomfortably. White Wolf coughs into his hand. “I really should be getting back.”
+
+“But you paid for the whole experience. Are you sure?”
+
+White Wolf is already walking away. 
+
+“But ...”
+
+You feel the exact moment he Relocates out of the Experience. A sensation like part of your soul is being stretched too thin. Then, a sort of whiplash, as you let go.
+
+## Part 14
+
+The Hey U.S.A. bar is the only Indian bar in Sedona. The basement level of a driftwood-paneled strip mall across the street from work. It’s packed with the after-shift crowd, most of them pod jockeys like you, but also a few roadside jewelry hawkers and restaurant stiffs still smelling like frybread grease. You’re lucky to find a spot at the far end next to the server’s station. You slip onto the plastic-covered barstool and raise a hand to get the bartender’s attention.
+
+“So what do you really think?” asks a voice to your right. DarAnne is staring at you, her eyes accusing and her posture tense. 
+
+This is it. A second chance. Your opportunity to stay off the assholes list. You need to get this right. You try to think of something clever to say, something that would impress her but let you save face, too. But you’re never been all that clever, so you stick to the truth.
+
+## Part 15
+
+“I think I really need this job,” you admit.
+
+DarAnne’s shoulders relax. 
+
+“Scooch over,” she says to the man on the other side of her, and he obligingly shifts off his stool to let her sit. “I knew it,” she says. “Why didn’t you stick up for me? Why are you so afraid of Boss?”
+
+“I’m not afraid of Boss. I’m afraid of Theresa leaving me. And unemployment.”  
+
+“You gotta get a backbone, Jesse, is all.”
+
+You realize the bartender is waiting, impatient. You drink the same thing every time you come here, a single Coors Light in a cold bottle. But the bartender never remembers you, or your order. You turn to offer to buy one for DarAnne, but she’s already gone, back with her crew.
+
+## Part 16
+
+You drink your beer alone, wait a reasonable amount of time, and leave.
+
+White Wolf is waiting for you under the streetlight at the corner.  
+
+The bright neon Indian Chief that squats atop Sedona Sweats hovers behind him in pinks and blues and yellows, his huge hand blinking up and down in greeting. White puffs of smoke signals flicker up, up and away beyond his far shoulder.
+
+You don’t recognize White Wolf at first. Most people change themselves a little within the construct of the Experience. Nothing wrong with being thinner, taller, a little better looking. But White Wolf looks exactly the same. Nondescript brown hair, pale skin, long legs.  
+
+“How.” White Wolf raises his hand, unconsciously mimicking the big neon Chief. At least he has the decency to look embarrassed when he does it.
+
+## Part 17
+
+“You.” You are so surprised that the accusation is the first thing out of your mouth. “How did you find me?”
+
+“Trueblood, right? I asked around.”
+
+“And people told you?” This is very against the rules.
+
+“I asked who the best Spirit Guide was. If I was going to buy a Vision Quest, who should I go to. Everyone said you.”
+
+You flush, feeling vindicated, but also annoyed that your co-workers had given your name out to a Tourist. “I tried to tell you,” you say ungraciously.
+
+“I should have listened.” White Wolf smiles, a faint shifting of his mouth into something like contrition. An awkward pause ensues.  
+
+## Part 18
+
+“We’re really not supposed to fraternize,” you finally say. 
+
+“I know, I just ... I just wanted to apologize. For ruining the Experience like that.”
+
+“It’s no big deal,” you say, gracious this time. “You paid, right?”
+
+“Yeah.”
+
+“It’s just ...” You know this is your ego talking, but you need to know. “Did I do something wrong?”
+
+## Part 19
+
+“No, it was me. You were great. It’s just, I had a great grandmother who was Cherokee, and I think being there, seeing everything. Well, it really stirred something in me. Like, ancestral memory or something.”
+
+You’ve heard of ancestral memories, but you’ve also heard of people claiming Cherokee blood where there is none. Theresa calls them “pretendians,” but you think that’s unkind. Maybe White Wolf really is Cherokee. You don’t know any Cherokees, so maybe they really do look like this guy. There’s a half-Tlingit in payroll and he’s pale.
+
+## Part 20 
+
+“Well, I’ve got to get home,” you say. “My wife, and all.”
+
+White Wolf nods. “Sure, sure. I just. Thank you.”
+
+“For what?”
+
+But White Wolf’s already walking away. “See you around.”
+
+A little déjà vu shudders your bones but you chalk it up to Tourists. Who understands them, anyway?
+
+You go home to Theresa.
+
+## Part 21
+
+As soon as you slide into your pod the next day, your monitor lights up. There’s already a Tourist on deck and waiting.
+
+“Shit,” you mutter, pulling up the menu and scrolling quickly through the requirements. Everything looks good, good, except ... a sliver of panic when you see that a specific tribe has been requested. Cherokee. You don’t know anything about Cherokees. What they wore back then, their ceremonies. The only Cherokee you know is ...
+
+White Wolf shimmers into your Experience.
+
+## Part 22
+
+In your haste, you have forgotten to put on your buckskin. Your Experience-self still wears Wranglers and Nikes. Boss would be pissed to see you this sloppy.
+
+“Why are you back?” you ask.
+
+“I thought maybe we could just talk.”
+
+“About what?”
+
+“Doesn’t matter. Whatever.”
+
+“I can’t.”
+
+“Why not? This is my time. I’m paying.”
+
+You feel a little panicked. A Tourist has never broken protocol like this before. Part of why the Experience works is that everyone knows their role. But White Wolf don’t seem to care about the rules.
+
+## Part 23
+
+“I can just keep coming back,” he says. “I have money, you know.”
+
+“You’ll get me in trouble.”
+
+“I won’t. I just ...” White Wolf hesitates. Something in him slumps. What you read as arrogance now looks like desperation. “I need a friend.”
+
+You know that feeling. The truth is, you could use a friend, too. Someone to talk to. What could the harm be? You’ll just be two men, talking.
+
+Not here, though. You still need to work. “How about the bar?”
+
+“The place from last night?”
+
+“I get off at 11p.m.”
+
+## Part 24
+
+When you get there around 11:30 p.m., the bar is busy but you recognize White Wolf immediately. A skinny white guy stands out at the Hey U.S.A. It’s funny. Under this light, in this crowd, White Wolf could pass for Native of some kind. One of those 1/64th guys, at least. Maybe he really is a little Cherokee from way back when.
+
+White Wolf waves you over to an empty booth. A Coors Light waits for you. You slide into the booth and wrap a hand around the cool damp skin of the bottle, pleasantly surprised. 
+
+## Part 25
+
+“A lucky guess, did I get it right?”
+
+You nod and take a sip. That first sip is always magic. Like how you imagine Golden, Colorado must feel like on a winter morning. 
+
+“So,” White Wolf says, “tell me about yourself.”
+
+You look around the bar for familiar faces. Are you really going to do this? Tell a Tourist about your life? Your real life? A little voice in your head whispers that maybe this isn’t so smart. Boss could find out and get mad. DarAnne could make fun of you. Besides, White Wolf will want a cool story, something real authentic, and all you have is an aging three-bedroom ranch and a student loan.
+
+## Part 26
+
+But he’s looking at you, friendly interest, and nobody looks at you like that much anymore, not even Theresa. So you talk.
+
+Not everything. 
+
+But some. Enough.
+
+Enough that when the bartender calls last call you realize you’ve been talking for two hours.
+
+When you stand up to go, White Wolf stands up, too. You shake hands, Indian-style, which makes you smile. You didn’t expect it, but you’ve got a good, good feeling.
+
+## Part 27
+
+“So, same time tomorrow?” White Wolf asks. 
+
+You’re tempted, but, “No, Theresa will kill me if I stay out this late two nights in a row.” And then, “But how about Friday?”
+
+“Friday it is.” White Wolf touches your shoulder. “See you then, Jesse.”
+
+You feel a warm flutter of anticipation for Friday. “See you.”
+
+## Part 28
+
+Friday you are there by 11:05 p.m. White Wolf laughs when he sees your face, and you grin back, only a little embarrassed. This time you pay for the drinks, and the two of you pick up right where you left off. It’s so easy. White Wolf never seems to tire of your stories and it’s been so long since you had a new friend to tell them to, that you can’t seem to quit. 
+
+It turns out White Wolf loves Kevin Costner, too, and you take turns quoting lines at each other until White Wolf stumps you with a Wind in His Hair quote.
+
+“Are you sure that’s in the movie?”
+
+“It’s Lakota!”
+
+You won’t admit it, but you’re impressed with how good White Wolf’s Lakota sounds. 
+
+White Wolf smiles. “Looks like I know something you don’t.”
+
+You wave it away good-naturedly, but vow to watch the movie again.
+
+Time flies and once again, after last call, you both stand outside under the Big Chief. You happily agree to meet again next Tuesday. And the following Friday. Until it becomes your new routine.
+
+## Part 29
+
+The month passes quickly. The next month, too.
+
+“You seem too happy,” Theresa says one night, sounding suspicious. 
+
+You grin and wrap your arms around your wife, pulling her close until her rose-scented shampoo fills your nose. “Just made a friend, is all. A guy from work.” You decide to keep it vague. Hanging with White Wolf, who you’ve long stopped thinking of as just a Tourist, would be hard to explain.
+
+## Part 30
+
+“You’re not stepping out on me, Jesse Turnblatt? Because I will—”
+
+You cut her off with a kiss. “Are you jealous?”
+
+“Should I be?”
+
+“Never.”
+
+She sniffs, but lets you kiss her again, her soft body tight against yours.
+
+“I love you,” you murmur as your hands dip under her shirt.
+
+“You better.”
+
+## Part 31
+
+Tuesday morning and you can’t breathe. Your nose is a deluge of snot and your joints ache. Theresa calls in sick for you and bundles you in bed with a bowl of stew. You’re supposed to meet White Wolf for your usual drink, but you’re much too sick. You consider sending Theresa with a note, but decided against it. It’s only one night. White Wolf will understand.
+
+But by Friday the coughing has become a deep rough bellow that shakes your whole chest. When Theresa calls in sick for you again, you make sure your cough is loud enough for Boss to hear it. Pray he doesn’t dock you for the days you’re missing. But what you’re most worried about is standing up White Wolf again.
+
+“Do you think you could go for me?” you ask Theresa.
+
+“What, down to the bar? I don’t drink.”
+
+“I’m not asking you to drink. Just to meet him, let him know I’m sick. He’s probably thinking I forgot about him.”
+
+“Can’t you call him?”
+
+“I don’t have his number.”
+
+“Fine, then. What’s his name?”
+
+You hesitate. Realize you don’t know. The only name you know is the one you gave him. “White Wolf.”
+
+## Part 32
+
+“Okay, then. Get some rest.”
+
+Theresa doesn’t get back until almost 1 a.m. “Where were you?” you ask, alarmed. Is that a rosy flush in her cheeks, the scent of Cherry Coke on her breath?
+
+“At the bar like you asked me to.”
+
+“What took so long?”
+
+She huffs. “Did you want me to go or not?”
+
+“Yes, but … well, did you see him?”
+
+She nods, smiles a little smile that you’ve never seen on her before.
+
+“What is it?” Something inside you shrinks.
+
+“A nice man. Real nice. You didn’t tell me he was Cherokee.”
+
+## Part 33
+
+By Monday you’re able to drag yourself back to work. There’s a note taped to your locker to go see Boss. You find him in his office, looking through the reports that he sends to Management every week.
+
+“I hired a new guy.”
+
+You swallow the excuses you’ve prepared to explain how sick you were, your promises to get your numbers up. They become a hard ball in your throat.
+
+“Sorry, Jesse.” Boss actually does look a little sorry. “This guy is good, a real rez guy. Last name’s ‘Wolf’. I mean, shit, you can’t get more Indian than that. The Tourists are going to eat it up.”
+
+“The Tourists love me, too.” You sound whiny, but you can’t help it. There’s a sinking feeling in your gut that tells you this is bad, bad, bad.
+
+“You’re good, Jesse. But nobody knows anything about Pueblo Indians, so all you’ve got is that TV shit. This guy, he’s …” Boss snaps his fingers, trying to conjure the word.
+
+“Authentic?” A whisper.
+
+Boss points his finger like a gun. “Bingo. Look, if another pod opens up, I’ll call you.”
+
+“You gave him my pod?”
+
+Boss’s head snaps up, wary. You must have yelled that. He reaches over to tap a button on his phone and call security.
+
+“Wait!” you protest.
+
+But the men in uniforms are already there to escort you out.
+
+## Part 34
+
+You can’t go home to Teresa. You just can’t. So you head to the Hey U.S.A. It’s a different crowd than you’re used to. An afternoon crowd. Heavy boozers and people without jobs. You laugh because you fit right in.
+
+The guys next to you are doing shots. Tiny glasses of rheumy dark liquor lined up in a row. You haven’t done shots since college but when one of the men offers you one, you take it. Choke on the cheap whiskey that burns down your throat. Two more and the edges of your panic start to blur soft and tolerable. You can’t remember what time it is when you get up to leave, but the Big Chief is bright in the night sky.
+
+You stumble through the door and run smack into DarAnne. She growls at you, and you try to stutter out an apology but a heavy hand comes down on your shoulder before you get the words out.
+
+## Part 34
+
+“This asshole bothering you?”
+
+You recognize that voice. “White Wolf?” It’s him. But he looks different to you. Something you can’t quite place. Maybe it’s the ribbon shirt he’s wearing, or the bone choker around his neck. Is his skin a little tanner than it was last week?
+
+“Do you know this guy?” DarAnne asks, and you think she’s talking to you, but her head is turned towards White Wolf.
+
+“Never seen him,” White Wolf says as he stares you down, and under that confident glare you almost believe him. Almost forget that you’ve told this man things about you even Theresa doesn’t know.
+
+“It’s me,” you protest, but your voice comes out in a whiskey-slurred squeak that doesn’t even sound like you.
+
+“Fucking glonnies,” DarAnne mutters as she pushes past you. “Always making a scene.”
+
+“I think you better go, buddy,” White Wolf says. Not unkindly, if you were in fact strangers, if you weren’t actually buddies. But you are, and you clutch at his shirtsleeve, shouting something about friendship and Theresa and then the world melts into a blur until you feel the hard slap of concrete against your shoulder and the taste of blood on your lip where you bit it and a solid kick to your gut until the whiskey comes up the way it went down and then the Big Chief is blinking at you, How, How, How, until the darkness comes to claim you and the lights all flicker out.
+
+## Part 35
+
+You wake up in the gutter. The fucking gutter. With your head aching and your mouth as dry and rotted as month-old roadkill. The sun is up, Arizona fire beating across your skin. Your clothes are filthy and your shoes are missing and there’s a smear of blood down your chin and drying flakes in the creases of your neck. Your hands are chapped raw. And you can’t remember why.
+
+But then you do.
+
+And the humiliation sits heavy on your bruised up shoulder, a dark shame that defies the desert sun. Your job. DarAnne ignoring you like that. White Wolf kicking your ass. And you out all night, drunk in a downtown gutter. It all feels like a terrible dream, like the worst kind. The ones you can’t wake up from because it’s real life.
+
+Your car isn’t where you left it, likely towed with the street sweepers, so you trudge your way home on sock feet. Three miles on asphalt streets until you see your highly-mortgaged three-bedroom ranch. And for once the place looks beautiful, like the day you bought it. Tears gather in your eyes as you push open the door.
+
+“Theresa,” you call. She’s going to be pissed, and you’re going to have to talk fast, explain the whole drinking thing (it was one time!) and getting fired (I’ll find a new job, I promise), but right now all you want is to wrap her in your arms and let her rose-scent fill your nose like good medicine.
+
+“Theresa,” you call again, as you limp through the living room. Veer off to look in the bedroom, check behind the closed bathroom door. But what you see in the bathroom makes you pause. Things are missing. Her toothbrush, the pack of birth control, contact lens solution.
+
+“Theresa!?” and this time you are close to panic as you hobble down the hall to the kitchen.
+
+The smell hits you first. The scent of fresh coffee, bright and familiar.
+
+When you see the person sitting calmly at the kitchen table, their back to you, you relax. But that’s not Theresa.
+
+He turns slightly, enough so you can catch his profile, and says, “Come on in, Jesse.”
+
+“What the fuck are you doing here?”
+
+White Wolf winces, as if your words hurt him. “You better have a seat.”
+
+## Part 36
+
+“What did you do to my wife?!”
+
+“I didn’t do anything to your wife.” He picks up a small folded piece of paper, holds it out. You snatch it from his fingers and move so you can see his face. The note in your hand feels like wildfire, something with the potential to sear you to the bone. You want to rip it wide open, you want to flee before its revelations scar you. You ache to read it now, now, but you won’t give him the satisfaction of your desperation.
+
+“So now you remember me,” you huff.
+
+“I apologize for that. But you were making a scene and I couldn’t have you upsetting DarAnne.”
+
+You want to ask how he knows DarAnne, how he was there with her in the first place. But you already know. Boss said the new guy’s name was Wolf.
+
+“You’re a real son of a bitch, you know that?”
+
+White Wolf looks away from you, that same pained look on his face. Like you’re embarrassing yourself again. “Why don’t you help yourself to some coffee,” he says, gesturing to the coffee pot. Your coffee pot.
+
+“I don’t need your permission to get coffee in my own house,” you shout.
+
+“Okay,” he says, leaning back. You can’t help but notice how handsome he looks, his dark hair a little longer, the choker on his neck setting off the arch of his high cheekbones.
+
+You take your time getting coffee—sugar, creamer which you would never usually take—before you drop into the seat across from him. Only then do you open the note, hands trembling, dread twisting hard in your gut.
+
+“She’s gone to her mother’s,” White Wolf explains as you read the same words on the page. “For her own safety. She wants you out by the time she gets back.”
+
+“What did you tell her?”
+
+“Only the truth. That you got yourself fired, that you were on a bender, drunk in some alleyway downtown like a bad stereotype.” He leans in. “You’ve been gone for two days.”
+
+You blink. It’s true, but it’s not true, too.
+
+“Theresa wouldn’t …” But she would, wouldn’t she? She’d said it a million times, given you a million chances.
+
+“She needs a real man, Jesse. Someone who can take care of her.”
+
+“And that’s you?” You muster all the scorn you can when you say that, but it comes out more a question than a judgment. You remember how you gave him the benefit of the doubt on that whole Cherokee thing, how you thought “pretendian” was cruel.
+
+He clears his throat. Stands.
+
+## Part 37
+
+“It’s time for you to go,” he says. “I promised Theresa you’d be gone, and I’ve got to get to work soon.” Something about him seems to expand, to take up the space you once occupied. Until you feel small, superfluous.
+
+“Did you ever think,” he says, his voice thoughtful, his head tilted to study you like a strange foreign body, “that maybe this is my experience, and you’re the tourist here?”
+
+“This is my house,” you protest, but you’re not sure you believe it now. Your head hurts. The coffee in your hand is already cold. How long have you been sitting here? Your thoughts blur to histories, your words become nothing more than forgotten facts and half-truths. Your heart, a dusty repository for lost loves and desires, never realized.
+
+“Not anymore,” he says.
+
+Nausea rolls over you. That same stretching sensation you get when you Relocate out of an Experience.
+
+Whiplash, and then …
+
+You let go.
