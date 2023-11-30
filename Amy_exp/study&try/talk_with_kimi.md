@@ -45,13 +45,19 @@
 正在尝试为您在互联网搜索相关资料...
 开始获取资料...
 找到了第 1 篇资料：[“东方蝴蝶”裕容龄:与太监相恋4年而不得,又被状元刘春霖...](https://baijiahao.baidu.com/s?id=1777965770205570306&wfr=spider&for=pc)
+
 找到了第 2 篇资料：[权谋背后的宫廷禁爱,陈阿娇的悲惨命运](https://baijiahao.baidu.com/s?id=1778648848705792784&wfr=spider&for=pc)
+
 找到了第 3 篇资料：[范蠡与西施爱情模式在中国文学中的演变 - 知乎](https://zhuanlan.zhihu.com/p/513321943?utm_id=0)
+
 找到了第 4 篇资料：[南北朝:她是“半老徐娘”的原主,因拒绝侍寝,首创“半面妆...](https://www.sohu.com/a/705323077_121165477)
+
 找到了第 5 篇资料：[婚恋生息:古代女性生存指南](https://www.zhihu.com/xen/market/remix/paid_column/1264278141746749440)
+
 一共找到 5 篇资料，正在阅读...
+
 找到了 5 篇资料作为参考：
-找到了 5 篇资料作为参考：
+
 这是一个很有趣的故事设定！在中国古代背景下，让一个泛性恋的女主角掌控自己的人生并走出自己的道路，可以通过以下几个方面来构建故事：
 
 角色设定：女主角可以出身于一个较为开明的家庭，或者在成长过程中受到一些特殊经历的影响，使她具有独立、自主的性格。她可以在文学、武术或其他领域展现出非凡的才能，这将有助于她在社会中立足。
@@ -112,3 +118,34 @@
 ![但我可怜的上下文！！！](imgs/I_lost_my_context.jpg)
 
 # 第二回 开始尝试学习更多信息
+
+想通过查看一些与当时相关的资料，更进一步理解 裕容龄 的故事。进行了以下尝试：
+
+1. 通过让kimi构建相关的prompt，然后使用sdxl进行绘画
+
+![childinJapan](imgs/Japan.png)
+![childinFranch](imgs/Franch.png)
+![childinChina](imgs/the_forbidden_city.png)
+
+2. 在B站上搜索“裕容龄”，搜到了她存世的唯一跳舞视频，—— 跳剑舞的视频，以及一众可以给到我直观灵感的视频
+
+- [【Video 5】裕容龄《剑舞》](https://www.bilibili.com/video/BV1WJ411u7Zx)
+- [【古典舞】身韵 • 独舞/剑舞《越女凌风》（表演陈奕宁）](https://www.bilibili.com/video/BV1bx411J7bK)
+- [唐诗逸丨剑舞丨从此以后武侠小说的女主都有了脸](https://www.bilibili.com/video/BV1oe411V7BS)
+- [降级了吗？过去的刘诗诗剧中跳舞VS现在的刘诗诗剧中跳舞](https://www.bilibili.com/video/BV1Ra4y1d7w2)
+- [【紫禁城的芭蕾||裕容龄×刘亦菲】假的，纯夹带私货](https://www.bilibili.com/video/BV1Y3411i7vW)
+- [感受来自顶级女A的压迫感！“我是最好的杀手，任辛”](https://www.bilibili.com/video/BV1gu4y1A7Xu)
+- [1932年“在北平的日子”纪实录像，原慈禧太后御前女官跳扇子舞](https://www.bilibili.com/video/BV1xV4y1y75o)
+- [1910年清朝北京真实视频，王府里的格格去吃早餐，百姓盯着摄像机](https://www.bilibili.com/video/BV1rd4y1W7C2)
+- [德龄、容龄-清代女官](https://www.bilibili.com/video/BV1wL411M7tc)
+- [曾任慈禧女官的舞蹈家裕容龄](https://www.bilibili.com/video/BV1gS4y1V7VC)
+- [1903年，慈禧太后与御前女官裕德龄，裕容龄合照【人工智能修复彩色版】](https://www.bilibili.com/video/BV1Jy4y1B7Bi)
+- [电视剧《德龄公主》慈禧的御用传译德龄、容龄姐妹](https://www.bilibili.com/video/BV1NE411M7r4)
+- [慈禧最宠爱女官的宫中之恋](https://mp.weixin.qq.com/s/Smz1HWJzDg2WmL2yezORNw)
+- [裕容龄：慈禧近身女官，中国芭蕾舞拓荒者，晚年出版清宫回忆录，反招来凄凉下场](https://mp.weixin.qq.com/s/J_jCFjDuALbKRdech0Djpw)
+- [小熬浆糊：晚清第一美人的宫中岁月](https://mp.weixin.qq.com/s/cyjbI3-Zu97DitXXuoCncg)
+- [【鹤唳华亭四周年记】别人求而不得的高光剧情它能做到每集都有](https://www.bilibili.com/video/BV1aC4y1E7iR)
+- 
+
+
+
