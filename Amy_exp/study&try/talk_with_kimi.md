@@ -145,7 +145,10 @@
 - [裕容龄：慈禧近身女官，中国芭蕾舞拓荒者，晚年出版清宫回忆录，反招来凄凉下场](https://mp.weixin.qq.com/s/J_jCFjDuALbKRdech0Djpw)
 - [小熬浆糊：晚清第一美人的宫中岁月](https://mp.weixin.qq.com/s/cyjbI3-Zu97DitXXuoCncg)
 - [【鹤唳华亭四周年记】别人求而不得的高光剧情它能做到每集都有](https://www.bilibili.com/video/BV1aC4y1E7iR)
-- 
 
-
-
+# 第三回 再与kimi对话
+> 把上面搜到的内容都发给kimi让他跟我继续分析和交流这些故事，但是不能用`[]()`的格式发给他，只能单发链接
+> 而且只能发一次链接，之后就不能发新的网页链接，而且也不能联网搜索了
+![](imgs/cannot_connect_internet_after_sended_links.png)
+> 苦恼，可恶！
+---
