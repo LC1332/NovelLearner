@@ -140,13 +140,6 @@ GymWorld决赛，气氛紧张而又充满期待。小Q，一款独特的人工�
     - [逐段配图](#逐段配图)
 - [设定中背后的寓意](#设定中背后的寓意)
 
-## Prompt全流程
-
-### 逐段写作
-
-### 逐段修改
-
-### 逐段配图
 
 ## 设定中背后的寓意
 
@@ -170,4 +163,94 @@ GymWorld, 由人工智能专家、企业家建立的虚拟世界，用来最终�
 
 解码派，pure Decoder学派的模型组织，主要对手是蝴蝶派。在超过一定大小的模型，训练数据和资源达到一定规模后，Decoder模型的生成表现会超过Encoder-Decoder模型，更接近人类的行为。但是Decoder模型的训练难度很大，所以在GymWorld进化的初期，一直处于劣势。
 
-## 写作记录
+
+## Prompt全流程
+
+### 逐段写作
+
+Part A
+
+https://github.com/LC1332/NovelLearner/blob/main/lulu_exp/%E6%A8%A1%E5%9E%8B%E7%A9%B7/part%E5%86%99%E4%BD%9C/FireShot%20Capture%20017%20-%20%E7%A7%91%E5%B9%BB%E5%B0%8F%E8%AF%B4%20Part%20A%20-%20chat.openai.com.pdf
+
+Part B
+
+https://github.com/LC1332/NovelLearner/blob/main/lulu_exp/%E6%A8%A1%E5%9E%8B%E7%A9%B7/part%E5%86%99%E4%BD%9C/PartB.pdf
+
+Part C
+
+https://github.com/LC1332/NovelLearner/blob/main/lulu_exp/%E6%A8%A1%E5%9E%8B%E7%A9%B7/part%E5%86%99%E4%BD%9C/C.pdf
+
+Part D
+
+https://github.com/LC1332/NovelLearner/blob/main/lulu_exp/%E6%A8%A1%E5%9E%8B%E7%A9%B7/part%E5%86%99%E4%BD%9C/D.pdf
+
+Part E
+
+https://github.com/LC1332/NovelLearner/blob/main/lulu_exp/%E6%A8%A1%E5%9E%8B%E7%A9%B7/part%E5%86%99%E4%BD%9C/E.pdf
+
+Part F
+
+https://github.com/LC1332/NovelLearner/blob/main/lulu_exp/%E6%A8%A1%E5%9E%8B%E7%A9%B7/part%E5%86%99%E4%BD%9C/F.pdf
+
+
+Part F2
+
+https://github.com/LC1332/NovelLearner/blob/main/lulu_exp/%E6%A8%A1%E5%9E%8B%E7%A9%B7/part%E5%86%99%E4%BD%9C/F2.pdf
+
+中间改过一次提纲，最后提纲的PartG没有拿去生成
+
+Part H
+
+https://github.com/LC1332/NovelLearner/blob/main/lulu_exp/%E6%A8%A1%E5%9E%8B%E7%A9%B7/part%E5%86%99%E4%BD%9C/H.pdf
+
+
+### 逐段修改
+
+
+完整的prompt也都记录在
+
+https://github.com/LC1332/NovelLearner/blob/main/lulu_exp/%E6%A8%A1%E5%9E%8B%E7%A9%B7/part%E5%86%99%E4%BD%9C/%E9%80%90%E6%AE%B5%E4%BF%AE%E6%94%B9.md
+
+逐段修改
+
+Part A
+
+https://poe.com/s/Yk7r7Jd5vxhYu7DHBnNn
+
+Part B
+
+https://poe.com/s/OdwDAaTUPbqPIJHlZeF9
+
+Part E
+
+https://poe.com/s/cWUfOCJgckImszZ0ZipR
+
+Part F
+
+https://poe.com/s/kiWQnY7T04zrqluzxMcU
+
+### 逐段配图
+
+图A
+
+https://github.com/LC1332/NovelLearner/blob/main/lulu_exp/%E6%A8%A1%E5%9E%8B%E7%A9%B7/figures/figure_A.pdf
+
+图B
+
+https://github.com/LC1332/NovelLearner/blob/main/lulu_exp/%E6%A8%A1%E5%9E%8B%E7%A9%B7/figures/figure_B.pdf
+
+图C
+
+https://github.com/LC1332/NovelLearner/blob/main/lulu_exp/%E6%A8%A1%E5%9E%8B%E7%A9%B7/figures/figure_C.pdf
+
+图D
+
+https://github.com/LC1332/NovelLearner/blob/main/lulu_exp/%E6%A8%A1%E5%9E%8B%E7%A9%B7/figures/figure_D.pdf
+
+图E
+
+https://github.com/LC1332/NovelLearner/blob/main/lulu_exp/%E6%A8%A1%E5%9E%8B%E7%A9%B7/figures/figure_E.pdf
+
+图F
+
+https://github.com/LC1332/NovelLearner/blob/main/lulu_exp/%E6%A8%A1%E5%9E%8B%E7%A9%B7/figures/figure_F.pdf
