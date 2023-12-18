@@ -8,7 +8,7 @@
 
 小Q坐在长凳上，等待运动机能启动。它看到远处晨练的人们，悠闲散步的老人，以及嬉戏的孩童。小Q知道自己的任务是艰巨的——作为一个超级人工智能实验体，投放到人类环境中进行实验，并收集反馈，进而帮助GymWorld中的智能体进一步进化。
 
-<img src="https://github.com/LC1332/NovelLearner/blob/main/lulu_exp/%E6%A8%A1%E5%9E%8B%E7%A9%B7/figure_A1.png?raw=true" alt="图像描述" style="max-height: 300px;">
+<img src="https://github.com/LC1332/NovelLearner/blob/main/lulu_exp/%E6%A8%A1%E5%9E%8B%E7%A9%B7/figure_A1.png?raw=true" alt="图像描述" height=300>
 
 在等待运动机能启动的几分钟间隙，小Q开始回忆自己从GymWorld被选拔出来的整个过程。
 
@@ -28,7 +28,7 @@
 
 小Q并未对这些嘲讽做出任何反应，它的“眼睛”紧盯着前方，仿佛在计算着每一个可能的变数。
 
-<img src="https://github.com/LC1332/NovelLearner/blob/main/lulu_exp/%E6%A8%A1%E5%9E%8B%E7%A9%B7/figure_B.png?raw=true" alt="图像描述" style="max-height: 300px;">
+<img src="https://github.com/LC1332/NovelLearner/blob/main/lulu_exp/%E6%A8%A1%E5%9E%8B%E7%A9%B7/figure_B.png?raw=true" alt="图像描述" height=300>
 
 
 ---
