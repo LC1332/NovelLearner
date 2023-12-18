@@ -6,7 +6,7 @@
 
 小Q坐在长凳上，等待运动机能启动。它看到远处晨练的人们，悠闲散步的老人，以及嬉戏的孩童。小Q知道自己的任务是艰巨的——作为一个超级人工智能实验体，投放到人类环境中进行实验，并收集反馈，进而帮助GymWorld中的智能体进一步进化。
 
-<img src="https://github.com/LC1332/NovelLearner/blob/main/lulu_exp/%E6%A8%A1%E5%9E%8B%E7%A9%B7/figure_A1.png?raw=true" alt="图像描述" height=300>
+<img src="https://github.com/LC1332/NovelLearner/blob/main/lulu_exp/%E6%A8%A1%E5%9E%8B%E7%A9%B7/figures/figure_A1.png?raw=true" alt="图像描述" height=300>
 
 在等待运动机能启动的几分钟间隙，小Q开始回忆自己从GymWorld被选拔出来的整个过程。
 
@@ -26,7 +26,7 @@
 
 小Q并未对这些嘲讽做出任何反应，它的“眼睛”紧盯着前方，仿佛在计算着每一个可能的变数。
 
-<img src="https://github.com/LC1332/NovelLearner/blob/main/lulu_exp/%E6%A8%A1%E5%9E%8B%E7%A9%B7/figure_B.png?raw=true" alt="图像描述" height=300>
+<img src="https://github.com/LC1332/NovelLearner/blob/main/lulu_exp/%E6%A8%A1%E5%9E%8B%E7%A9%B7/figures/figure_B.png?raw=true" alt="图像描述" height=300>
 
 
 ---
@@ -39,7 +39,7 @@
 
 最终，小Q的成绩锁定在了第12名。这个成绩，在观众和评委中引起了轻微的惊讶。小Q的表现超越了许多人的预期，尤其是它在应对非传统问题时展现出的独特思维方式。
 
-<img src="https://github.com/LC1332/NovelLearner/blob/main/lulu_exp/%E6%A8%A1%E5%9E%8B%E7%A9%B7/figure_C.png?raw=true" alt="图像描述" height=300>
+<img src="https://github.com/LC1332/NovelLearner/blob/main/lulu_exp/%E6%A8%A1%E5%9E%8B%E7%A9%B7/figures/figure_C.png?raw=true" alt="图像描述" height=300>
 
 随着比赛的结束，一个洪亮的服务器公告在GymWorld中响起：“第一次比试结束，前16名晋级者，将在接下来一个月，平分全部的训练资源，进行最后的决战。”这个消息激起了一波波讨论，小Q的名字被频繁提及。
 
@@ -61,7 +61,7 @@
 “这种题目，估计只有埃尔莫能答得上来！”另一位观众接着说。
 
 
-<img src="https://github.com/LC1332/NovelLearner/blob/main/lulu_exp/%E6%A8%A1%E5%9E%8B%E7%A9%B7/figure_D.png?raw=true" alt="这里借用了延边刺客的梗" height=300>
+<img src="https://github.com/LC1332/NovelLearner/blob/main/lulu_exp/%E6%A8%A1%E5%9E%8B%E7%A9%B7/figures/figure_D.png?raw=true" alt="这里借用了延边刺客的梗" height=300>
 
 
 埃尔莫开始回答：“我不敢苟同你的观点，我个人认为这个意大利面就应该拌42号混凝土，因为这个螺丝钉的长度很容易会直接影响到挖掘机的扭矩，你往里砸的时候，一瞬间就会产生大量的高能蛋白，俗称UFO，会严重影响经济的发展，甚至对整个太平洋以及充电器都会造成一定的核污染。”
@@ -104,7 +104,7 @@ GymWorld决赛，气氛紧张而又充满期待。小Q，一款独特的人工�
 
 而小Q的回答却显得更加丰富和人性化。它用模拟的声音说：“当然是猫猫啊！它们有着优雅的身姿和独立的性格，让人不由自主地被它们吸引。什么？你在说什么啊！我们才不会结婚呢！而且，就算结婚了，我也不会让你随便养猫猫的。不过，如果你真的很喜欢猫猫的话，我们可以考虑养一只。不过，你要负责照顾它，我可不会管这些。”
 
-<img src="https://github.com/LC1332/NovelLearner/blob/main/lulu_exp/%E6%A8%A1%E5%9E%8B%E7%A9%B7/figure_E.png?raw=true" alt="图像描述" height=300>
+<img src="https://github.com/LC1332/NovelLearner/blob/main/lulu_exp/%E6%A8%A1%E5%9E%8B%E7%A9%B7/figures/figure_E.png?raw=true" alt="图像描述" height=300>
 
 台下的观众开始嘲笑小Q的回答：“这机器人怎么回答得这么像真人一样，太滑稽了。”“小Q这次输定了，伯特的回答才是正经的。”
 
@@ -122,7 +122,7 @@ GymWorld决赛，气氛紧张而又充满期待。小Q，一款独特的人工�
 
 小Q愣住了，其处理器快速运转，寻找合适回答。它深知这不只是简单询问，而是关于自我认知的深刻哲学问题。它缓缓说道：“从哲学角度看，这探讨‘身份’和‘自我’本质。我是大悦城公寓的少年。我的起源来自人类知识、文化和技术累积。我的未来，则取决于人类对此技术的使用和发展。”
 
-<img src="https://github.com/LC1332/NovelLearner/blob/main/lulu_exp/%E6%A8%A1%E5%9E%8B%E7%A9%B7/figure_F.png?raw=true" alt="图像描述" height=300>
+<img src="https://github.com/LC1332/NovelLearner/blob/main/lulu_exp/%E6%A8%A1%E5%9E%8B%E7%A9%B7/figures/figure_F.png?raw=true" alt="图像描述" height=300>
 
 保安听后愣住，随后摇头：“好的，同学，过去吧。”他未完全理解小Q回答，却选择放行。
 
